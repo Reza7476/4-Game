@@ -1,0 +1,15 @@
+F:\TaaVClass\GotHubRepositoryOOP\4-Game\Game\Game\bin\Debug\net6.0\Game.exe
+F:\TaaVClass\GotHubRepositoryOOP\4-Game\Game\Game\bin\Debug\net6.0\Game.deps.json
+F:\TaaVClass\GotHubRepositoryOOP\4-Game\Game\Game\bin\Debug\net6.0\Game.runtimeconfig.json
+F:\TaaVClass\GotHubRepositoryOOP\4-Game\Game\Game\bin\Debug\net6.0\Game.dll
+F:\TaaVClass\GotHubRepositoryOOP\4-Game\Game\Game\bin\Debug\net6.0\Game.pdb
+F:\TaaVClass\GotHubRepositoryOOP\4-Game\Game\Game\obj\Debug\net6.0\Game.csproj.AssemblyReference.cache
+F:\TaaVClass\GotHubRepositoryOOP\4-Game\Game\Game\obj\Debug\net6.0\Game.GeneratedMSBuildEditorConfig.editorconfig
+F:\TaaVClass\GotHubRepositoryOOP\4-Game\Game\Game\obj\Debug\net6.0\Game.AssemblyInfoInputs.cache
+F:\TaaVClass\GotHubRepositoryOOP\4-Game\Game\Game\obj\Debug\net6.0\Game.AssemblyInfo.cs
+F:\TaaVClass\GotHubRepositoryOOP\4-Game\Game\Game\obj\Debug\net6.0\Game.csproj.CoreCompileInputs.cache
+F:\TaaVClass\GotHubRepositoryOOP\4-Game\Game\Game\obj\Debug\net6.0\Game.dll
+F:\TaaVClass\GotHubRepositoryOOP\4-Game\Game\Game\obj\Debug\net6.0\refint\Game.dll
+F:\TaaVClass\GotHubRepositoryOOP\4-Game\Game\Game\obj\Debug\net6.0\Game.pdb
+F:\TaaVClass\GotHubRepositoryOOP\4-Game\Game\Game\obj\Debug\net6.0\Game.genruntimeconfig.cache
+F:\TaaVClass\GotHubRepositoryOOP\4-Game\Game\Game\obj\Debug\net6.0\ref\Game.dll
